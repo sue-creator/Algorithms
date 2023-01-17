@@ -2,7 +2,6 @@
 #include <string>
 
 using namespace std;
-
 int main()
 {
     int n=1;
@@ -14,7 +13,7 @@ int main()
         dp[i] = i*dp[i-1];
         }
     
-    printf("%d", dp[n]);
+    cout << dp[n];
     
     return 0;
 }
