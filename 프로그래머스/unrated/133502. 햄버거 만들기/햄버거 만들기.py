@@ -7,5 +7,4 @@ def solution(ingredient):
         if s[-4:] == [1,2,3,1]:
             answer += 1
             s.pop();s.pop();s.pop();s.pop();
-        #print(s)    
     return answer
