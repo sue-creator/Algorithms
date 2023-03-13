@@ -1,2 +1,2 @@
-# BJ_practice
-백준 코드
+# Algorithms
+Baekjoon & Programmers' Problems.
